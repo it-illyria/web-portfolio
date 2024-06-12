@@ -1218,3 +1218,11 @@ body {
     background-color: var(--bg-color);
     color: var(--text-color);
 }
+
+
+
+p.center {
+    content: "❤️";
+    color: red;
+    margin-right: 5px;
+}
